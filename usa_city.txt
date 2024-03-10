@@ -1,0 +1,15 @@
+City - New York
+State - New York
+Population - 8,622,698
+
+City - Los Angeles
+State - California
+Population - 3,999,759
+
+City - Chicago
+State - Illinois
+Population - 2,716,450
+
+City - Houston
+State - Texas
+Population - 2,312,717
